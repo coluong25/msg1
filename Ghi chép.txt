@@ -1,5 +1,1 @@
-Chỉnh file env
-
-Kèm pusher.ts đúng miền pusher
-    Form.tsx đúng cloudinary
 
